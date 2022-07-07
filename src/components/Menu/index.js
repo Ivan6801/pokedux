@@ -1,6 +1,6 @@
 import React from 'react';
 import { Menu as SemanticMenu, Container, Image } from 'semantic-ui-react';
-import logo from '../../statics/images/logo_v4 (1).svg';
+import logo from '../../statics/images/logo_v4.svg';
 
 const Menu = () => {
   return (
